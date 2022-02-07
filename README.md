@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... 11
-- 🌱 I’m currently learning ...11
-- 👯 I’m looking to collaborate on ...11
-- 🤔 I’m looking for help with 111
-- 💬 Ask me about ...1111
-- 📫 How to reach me: ...1111
-- 😄 Pronouns: ...111
-- ⚡ Fun fact: ...1111
+- 🔭 I’m currently working on ... 11hello
+- 🌱 I’m currently learning ... he11
+- 👯 I’m looking to collaborate on ...hehe11
+- 🤔 I’m looking for help with hehe11
+- 💬 Ask me about ...bb111
+- 📫 How to reach me: ...bb1111
+- 😄 Pronouns: ...bb111
+- ⚡ Fun fact: ...bb1111
 -->
 
 <!-- Add your details -->

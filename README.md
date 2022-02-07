@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Add your details -->
+✉️: ashzhenjia@hotmail.com 
+&nbsp;&nbsp; 📲 +65 9068 4641
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/evan-mah-264b9b127/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](NONE)
+<!-- CONTACT Section Ends -->

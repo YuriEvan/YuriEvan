@@ -1,4 +1,4 @@
-### Hi there, i am currently looking for junior data/business anaylst job, where I can apply new skills and knowledge learnt in the BCG RISE into the new role. 👋
+### Hi there, i am currently looking for junior data/business analyst job, where I can apply new skills and knowledge learnt in the BCG RISE into the new role. 👋
 
 
 - 🔭 I’m currently looking out for new job opportunity 
